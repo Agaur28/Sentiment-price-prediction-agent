@@ -1,0 +1,32 @@
+{
+  "HKEX": {
+    "n": 35,
+    "MAE": 0.02002852247994337,
+    "directional_acc": 0.8
+  },
+  "HKEX price_only": {
+    "n": 35,
+    "MAE": 0.020885086586668624,
+    "directional_acc": 0.8
+  },
+  "HKEX naive": {
+    "n": 50,
+    "MAE": 0.021819581217900196,
+    "directional_acc": 0.18
+  },
+  "KRX": {
+    "n": 35,
+    "MAE": 0.02660889501308434,
+    "directional_acc": 0.4857142857142857
+  },
+  "KRX price_only": {
+    "n": 35,
+    "MAE": 0.02627121281894286,
+    "directional_acc": 0.45714285714285713
+  },
+  "KRX naive": {
+    "n": 50,
+    "MAE": 0.024844509184177535,
+    "directional_acc": 0.44
+  }
+}
